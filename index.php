@@ -596,7 +596,7 @@
         
 <h3 class="title">Contact to our <span class="themecolor"> mail ID for any query.</span></h3>
             
-<p class="lead">Brought to you by GLA University </p>
+<p class="lead">Brought to you by GLA UNIVERSITY </p>
     
 </div> 
     
